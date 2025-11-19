@@ -1,4 +1,6 @@
 📘 Student Profile App – Android Project
+![Uploading Screenshot 2025-11-19 144243.png…]()
+
 
 A simple Android application built using Kotlin and XML layouts.
 The app displays a Student Profile Screen including:
